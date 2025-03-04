@@ -3,7 +3,8 @@
 # Chicago Taxi Trips Analysis
 
 ## Overview  
-This project analyzes key metrics based on a dataset of Chicago taxi trips. The data was sourced from Google BigQuery's open database.  
+This project analyzes key metrics based on a dataset of Chicago taxi trips. For analysis, I selected a sample from the year 2021 from a taxi service called Blue Ribbon Taxi Association Inc. The data was sourced from Google BigQuery's open database.  
+
 The project available in 2 languages:
 
 [Project in English](https://github.com/MykolaKud/Analytics_of_Chicago_Taxi_Trips_project/blob/c26413857fb4843cab606716b1d11ec6eb55696f/Chicago_taxi_project_English.ipynb)
@@ -19,8 +20,7 @@ The project available in 2 languages:
 Developed from **December 2024 to January 2025**.  
 
 ## Data Source  
-Chicago taxi trip data from [Google BigQuery public datasets](https://console.cloud.google.com/marketplace/details/chicago-data-portal/chicago-taxi-trips).  
-[Direct link](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips)
+Chicago taxi trip data from [Google BigQuery public datasets](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips).
 
 ## Key Insights  
 
@@ -58,4 +58,5 @@ Chicago taxi trip data from [Google BigQuery public datasets](https://console.cl
 ## How to Use  
 1. Clone the repository  
 2. Open the notebook in Google Colab  
-3. Run the analysis using the provided dataset  
+3. Connect the dataset from Google BigQuery
+4. Run the analysis using the provided dataset  
