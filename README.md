@@ -20,6 +20,7 @@ Developed from **December 2024 to January 2025**.
 
 ## Data Source  
 Chicago taxi trip data from [Google BigQuery public datasets](https://console.cloud.google.com/marketplace/details/chicago-data-portal/chicago-taxi-trips).  
+[Direct link](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2schicago_taxi_trips)
 
 ## Key Insights  
 
